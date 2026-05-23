@@ -48,3 +48,7 @@ This project helped me better understand how abstract data types work and how te
 ## Notes
 
 Some starter/template files and testing code were provided as part of the course assignment. The implementation and functionality of the bag and dictionary structures were completed by me.
+
+## Program Output
+
+![Program Output](screenshots/Create bagprojectss.png)
