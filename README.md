@@ -1,5 +1,3 @@
-# Bag project
-C++ bag-based dictionary project using ADTs and inheritance.
 # Bag Dictionary Project
 
 This project was created for my CSIS 215 Data Structures course. The goal of the project was to build a bag-based dictionary in C++ using templates, inheritance, abstract data types (ADTs), and dynamic memory allocation.
