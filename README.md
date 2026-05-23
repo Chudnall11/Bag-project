@@ -51,4 +51,4 @@ Some starter/template files and testing code were provided as part of the course
 
 ## Program Output
 
-![Program Output](screenshots/Create bagprojectss.png)
+![Program Output](screenshots/output.png)
